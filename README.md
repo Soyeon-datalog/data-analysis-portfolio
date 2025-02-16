@@ -3,6 +3,7 @@
 >
 > This Resistory is for solving Python, R, SQL problems and enhance the data analysis skill. <br> The cases are divided by each folders.
 
+
 ## Folder Structure 🎈
 - **SQL**: SQL 문제 풀이 SQL Case
 - **Python**: Python 문제 풀이 Python Case
